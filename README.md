@@ -8,5 +8,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: DM me with social media Facebook, linkedin, X, Discord and Whatsapp
 - ⚡ Fun fact: I’m building an engine on my own — a crazy long-term challenge to chase UE5-class technology. (soon :))
 
-<!-- waka start -->
-<!-- waka end -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
