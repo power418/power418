@@ -11,13 +11,5 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 28 April 2026 - To: 05 May 2026
-
-C++             2 hrs 58 mins         ██████████████████▓░░░░░░   75.06 %
-Other           24 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-```
-
 <!--END_SECTION:waka-->
 
