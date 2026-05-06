@@ -31,6 +31,5 @@ jobs:
           SHOW_EDITORS: true 
           SHOW_OS: true 
           SHOW_PROJECTS: false
-          STOP_AT_OTHER: true
   
           BLOCKS: ▓░  
