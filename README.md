@@ -9,5 +9,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I’m building an engine on my own — a crazy long-term challenge to chase UE5-class technology. (soon :))
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 28 April 2026 - To: 05 May 2026
+
+C++             2 hrs 58 mins         ██████████████████▓░░░░░░   75.06 %
+Other           24 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+```
+
 <!--END_SECTION:waka-->
 
