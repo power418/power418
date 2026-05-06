@@ -28,8 +28,8 @@ jobs:
           
           SHOW_TIME: true
           SHOW_TOTAL: false
-          SHOW_OS: true 
           SHOW_EDITORS: true
+          SHOW_OS: true 
           
           STOP_AT_OTHER: true
   
