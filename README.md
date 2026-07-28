@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 ---
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -32,6 +34,7 @@ CLion                    12 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Linux                    14 hrs 24 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   91.16 % 
 Windows                  1 hr 23 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.84 % 
 ```
+
 
 <!--END_SECTION:waka-->
 
