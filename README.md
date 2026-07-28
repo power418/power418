@@ -10,6 +10,12 @@ Here are some ideas to get you started:
 
 ---
 
+<a href="https://www.facebook.com/ahmad.zani.77312/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.linkedin.com/in/ahmad-zani-sy-17a571302/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/<nama_akun>"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X" /></a>
+<a href="https://discord.com/users/<nama_akun>"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://api.whatsapp.com/send?phone=6281234567890"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
