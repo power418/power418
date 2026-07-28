@@ -11,16 +11,11 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <a href="https://www.facebook.com/ahmad.zani.77312/"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="32" height="32" alt="Facebook" /></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahmad-zani-sy-17a571302/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn" /></a> &nbsp;&nbsp;
-  <a href="https://x.com/<nama_akun>">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white">
-      <img src="https://cdn.simpleicons.org/x/black" width="32" height="32" alt="X" />
-    </picture>
-  </a> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/discord/5865F2" width="32" height="32" alt="Discord" title="@__devconn__" /> &nbsp;&nbsp;
-  <a href="https://api.whatsapp.com/send?phone=6281234567890"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="32" height="32" alt="WhatsApp" /></a>
+  <a href="https://www.facebook.com/ahmad.zani.77312/"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahmad-zani-sy-17a571302/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a> &nbsp;&nbsp;
+  <a href="https://x.com/<nama_akun>"><img src="https://skillicons.dev/icons?i=twitter" alt="X" /></a> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" title="@__devconn__" /> &nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send?phone=6281234567890"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="48" height="48" alt="WhatsApp" /></a>
 </p>
 
 <!--START_SECTION:waka-->
