@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">
-  <a href="https://www.facebook.com/ahmad.zani.77312/"><img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" /></a> &nbsp;&nbsp;
+  <a href="https://www.facebook.com/ahmad.zani.77312/"><img src="https://img.icons8.com/color/48/facebook-new.png" width="48" height="48" alt="Facebook" /></a> &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmad-zani-sy-17a571302/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a> &nbsp;&nbsp;
   <a href="https://x.com/<nama_akun>"><img src="https://skillicons.dev/icons?i=twitter" alt="X" /></a> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" title="@__devconn__" /> &nbsp;&nbsp;
