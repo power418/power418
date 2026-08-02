@@ -10,12 +10,14 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-  <a href="https://www.facebook.com/ahmad.zani.77312/"><img src="https://img.icons8.com/color/48/facebook-new.png" width="48" height="48" alt="Facebook" /></a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ahmad-zani-sy-17a571302/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a> &nbsp;&nbsp;
-  <a href="https://x.com/<nama_akun>"><img src="https://skillicons.dev/icons?i=twitter" alt="X" /></a> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" title="@__devconn__" /> &nbsp;&nbsp;
-  <a href="https://api.whatsapp.com/send?phone=6281234567890"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="48" height="48" alt="WhatsApp" /></a>
+**Connect with me:**
+
+<p align="left">
+  <a href="https://www.facebook.com/ahmad.zani.77312/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/facebook/white" /><img src="https://cdn.simpleicons.org/facebook/black" width="32" height="32" alt="Facebook" /></picture></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahmad-zani-sy-17a571302/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white" /><img src="https://cdn.simpleicons.org/linkedin/black" width="32" height="32" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;
+  <a href="https://x.com/<nama_akun>"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white" /><img src="https://cdn.simpleicons.org/x/black" width="32" height="32" alt="X" /></picture></a>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/discord/white" /><img src="https://cdn.simpleicons.org/discord/black" width="32" height="32" alt="Discord" title="@__devconn__" /></picture>&nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send?phone=6281234567890"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/whatsapp/white" /><img src="https://cdn.simpleicons.org/whatsapp/black" width="32" height="32" alt="WhatsApp" /></picture></a>
 </p>
 
 <!--START_SECTION:waka-->
