@@ -10,9 +10,7 @@ Here are some ideas to get you started:
 
 ---
 
-**Connect with me:**
-
-<p align="left">
+<p align="center">
   <a href="https://www.facebook.com/ahmad.zani.77312/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/facebook/white" /><img src="https://cdn.simpleicons.org/facebook/black" width="32" height="32" alt="Facebook" /></picture></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ahmad-zani-sy-17a571302/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white" /><img src="https://cdn.simpleicons.org/linkedin/black" width="32" height="32" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;
   <a href="https://x.com/<nama_akun>"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white" /><img src="https://cdn.simpleicons.org/x/black" width="32" height="32" alt="X" /></picture></a>&nbsp;&nbsp;
